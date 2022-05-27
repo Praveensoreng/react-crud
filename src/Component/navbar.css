@@ -1,0 +1,14 @@
+.navbar_container{
+    background-color: blue;
+}
+.navbar-item{
+    display: flex;
+    list-style: none;
+    font-size: 30px;
+    justify-content: space-between;
+
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
